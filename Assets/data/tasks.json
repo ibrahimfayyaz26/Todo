@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "Meeting at 9pm",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "task": "Meet Ahmad",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "task": "lunch at 10am",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "task": "Complete todo App",
+    "priority": "low"
+  },
+  {
+    "id": 5,
+    "task": "Go for tea",
+    "priority": "high"
+  },
+  {
+    "id": 6,
+    "task": "Hello",
+    "priority": "high"
+  }
+]
